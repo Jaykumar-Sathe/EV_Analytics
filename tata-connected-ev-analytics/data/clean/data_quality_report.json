@@ -1,0 +1,23 @@
+{
+  "dim_vehicle_duplicates_removed": 1,
+  "dim_vehicle_city_values_standardized": 245,
+  "dim_vehicle_city_still_missing_after_cleaning": 5,
+  "fact_trip_duplicates_removed": 320,
+  "fact_trip_swapped_start_end_time": 53,
+  "fact_trip_start_battery_pct_out_of_range_fixed": 56,
+  "fact_trip_end_battery_pct_out_of_range_fixed": 0,
+  "fact_trip_negative_energy_fixed": 81,
+  "fact_trip_distance_outliers_capped": 37,
+  "fact_trip_outside_temp_c_missing_imputed": 534,
+  "fact_trip_avg_speed_kmph_missing_imputed": 267,
+  "fact_trip_ac_usage_missing_imputed": 267,
+  "fact_trip_driving_mode_missing_imputed": 214,
+  "fact_charging_duplicates_removed": 22,
+  "fact_charging_negative_cost_fixed": 4,
+  "fact_charging_energy_added_outliers_capped": 6,
+  "fact_charging_wait_time_min_missing_imputed": 29,
+  "fact_charging_charging_cost_inr_missing_imputed": 22,
+  "ground_truth_check_row_count_match": true,
+  "ground_truth_check_mean_abs_distance_error_km": 1.6215,
+  "ground_truth_check_pct_rows_within_1km_of_truth": 99.6
+}

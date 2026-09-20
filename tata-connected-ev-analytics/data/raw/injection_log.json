@@ -1,0 +1,28 @@
+{
+  "dim_vehicle_city_text_inconsistencies": 36,
+  "dim_vehicle_missing_city": 5,
+  "dim_vehicle_duplicate_rows": 1,
+  "fact_trip": {
+    "missing_outside_temp_c": 534,
+    "missing_avg_speed_kmph": 267,
+    "missing_ac_usage": 267,
+    "missing_driving_mode": 214,
+    "text_inconsistency_driving_mode": 1602,
+    "text_inconsistency_terrain": 1602,
+    "text_inconsistency_traffic_condition": 1602,
+    "duplicate_rows": 320,
+    "outlier_distance": 108,
+    "negative_energy_consumed": 81,
+    "battery_pct_over_100": 81,
+    "end_before_start_time": 54
+  },
+  "fact_charging": {
+    "missing_wait_time_min": 29,
+    "missing_charging_cost_inr": 22,
+    "text_inconsistency_connector": 73,
+    "inconsistent_boolean_encoding": 59,
+    "duplicate_rows": 22,
+    "outlier_energy_added": 6,
+    "negative_cost": 4
+  }
+}

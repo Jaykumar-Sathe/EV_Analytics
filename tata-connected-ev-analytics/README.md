@@ -13,9 +13,9 @@ across Tata's EV lineup (Tiago.ev, Tigor.ev, Punch.ev, Nexon.ev, Curvv.ev, Harri
 ## Project Phases
 
 - [x] **Phase 1** — Architecture & Star Schema Data Model Design
-- [ ] Phase 2 — Vehicle & Charging Network Master Data
-- [ ] Phase 3 — Synthetic Telemetry Generation (trips + charging sessions)
-- [ ] Phase 4 — Data Quality Injection & Cleaning Pipeline
+- [x] **Phase 2** — Vehicle & Charging Network Master Data
+- [x] **Phase 3** — Synthetic Telemetry Generation (trips + charging sessions)
+- [x] **Phase 4** — Data Quality Injection & Cleaning Pipeline
 - [ ] Phase 5 — PostgreSQL Loading & SQL Analytics
 - [ ] Phase 6 — Exploratory Data Analysis (Python)
 - [ ] Phase 7 — Power BI Dashboard
