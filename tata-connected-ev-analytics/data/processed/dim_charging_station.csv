@@ -1,0 +1,182 @@
+station_id,network_id,station_name,city,latitude,longitude,max_charger_power_kw,num_chargers,connector_types,operational_status
+1,1,Tata Power EZ Charge - Delhi NCR Hub 1,Delhi NCR,28.576262,77.344214,60.0,4,CCS2,Active
+2,1,Tata Power EZ Charge - Jaipur Hub 2,Jaipur,26.981998,75.816898,100.0,2,CCS2,Active
+3,1,Tata Power EZ Charge - Jaipur Hub 3,Jaipur,26.809206,75.684098,120.0,8,CCS2,Active
+4,1,Tata Power EZ Charge - Surat Hub 4,Surat,21.037625,72.940953,30.0,4,CCS2,Active
+5,1,Tata Power EZ Charge - Hyderabad Hub 5,Hyderabad,17.415335,78.549122,50.0,6,"CCS2, CHAdeMO",Active
+6,1,Tata Power EZ Charge - Ahmedabad Hub 6,Ahmedabad,22.878675,72.712373,60.0,2,CCS2,Active
+7,1,Tata Power EZ Charge - Jaipur Hub 7,Jaipur,27.012133,75.701002,100.0,6,CCS2,Active
+8,1,Tata Power EZ Charge - Surat Hub 8,Surat,21.074747,72.736121,7.2,4,Type 2,Active
+9,1,Tata Power EZ Charge - Delhi NCR Hub 9,Delhi NCR,28.555173,77.216427,50.0,2,CCS2,Active
+10,1,Tata Power EZ Charge - Delhi NCR Hub 10,Delhi NCR,28.593484,77.146369,100.0,6,CCS2,Active
+11,1,Tata Power EZ Charge - Hyderabad Hub 11,Hyderabad,17.418556,78.378548,60.0,2,CCS2,Active
+12,1,Tata Power EZ Charge - Mumbai Hub 12,Mumbai,19.013643,72.837609,50.0,8,CCS2,Active
+13,1,Tata Power EZ Charge - Jaipur Hub 13,Jaipur,26.899221,75.872853,60.0,2,"CCS2, CHAdeMO",Active
+14,1,Tata Power EZ Charge - Bengaluru Hub 14,Bengaluru,12.881502,77.59887,7.2,2,Type 2,Active
+15,1,Tata Power EZ Charge - Surat Hub 15,Surat,21.197924,72.695035,7.2,1,Type 2,Active
+16,1,Tata Power EZ Charge - Ahmedabad Hub 16,Ahmedabad,23.054763,72.472557,22.0,2,Type 2,Active
+17,1,Tata Power EZ Charge - Mumbai Hub 17,Mumbai,18.945515,73.012366,120.0,8,CCS2,Active
+18,1,Tata Power EZ Charge - Ahmedabad Hub 18,Ahmedabad,23.16219,72.663919,50.0,2,CCS2,Active
+19,1,Tata Power EZ Charge - Delhi NCR Hub 19,Delhi NCR,28.555284,77.088302,50.0,8,CCS2,Active
+20,1,Tata Power EZ Charge - Ahmedabad Hub 20,Ahmedabad,23.07777,72.553446,100.0,2,CCS2,Active
+21,1,Tata Power EZ Charge - Delhi NCR Hub 21,Delhi NCR,28.500511,77.207553,120.0,6,CCS2,Active
+22,1,Tata Power EZ Charge - Ahmedabad Hub 22,Ahmedabad,22.882817,72.694196,30.0,6,"CCS2, CHAdeMO",Inactive
+23,1,Tata Power EZ Charge - Mumbai Hub 23,Mumbai,19.003634,72.926457,30.0,6,"CCS2, CHAdeMO",Active
+24,1,Tata Power EZ Charge - Jaipur Hub 24,Jaipur,26.855913,75.79332,50.0,4,CCS2,Active
+25,1,Tata Power EZ Charge - Jaipur Hub 25,Jaipur,26.926413,75.692756,22.0,2,Type 2,Active
+26,1,Tata Power EZ Charge - Delhi NCR Hub 26,Delhi NCR,28.754775,77.29154,7.2,1,Type 2,Active
+27,1,Tata Power EZ Charge - Surat Hub 27,Surat,21.30205,72.949548,3.3,4,Type 2,Active
+28,1,Tata Power EZ Charge - Delhi NCR Hub 28,Delhi NCR,28.64327,77.335562,22.0,1,Type 2,Active
+29,1,Tata Power EZ Charge - Kolkata Hub 29,Kolkata,22.449148,88.272695,3.3,2,Type 2,Active
+30,1,Tata Power EZ Charge - Surat Hub 30,Surat,21.033768,72.778699,50.0,4,"CCS2, CHAdeMO",Active
+31,1,Tata Power EZ Charge - Ahmedabad Hub 31,Ahmedabad,22.989103,72.502805,22.0,2,Type 2,Active
+32,1,Tata Power EZ Charge - Jaipur Hub 32,Jaipur,27.011021,75.744326,50.0,6,CCS2,Active
+33,1,Tata Power EZ Charge - Jaipur Hub 33,Jaipur,26.84668,75.800109,50.0,2,CCS2,Active
+34,1,Tata Power EZ Charge - Bengaluru Hub 34,Bengaluru,12.863877,77.685259,3.3,4,Type 2,Active
+35,1,Tata Power EZ Charge - Kolkata Hub 35,Kolkata,22.444965,88.509966,50.0,8,CCS2,Active
+36,1,Tata Power EZ Charge - Kolkata Hub 36,Kolkata,22.654273,88.273515,3.3,1,Type 2,Active
+37,1,Tata Power EZ Charge - Ahmedabad Hub 37,Ahmedabad,22.874157,72.666038,100.0,2,CCS2,Active
+38,1,Tata Power EZ Charge - Delhi NCR Hub 38,Delhi NCR,28.675957,77.277702,150.0,2,CCS2,Active
+39,1,Tata Power EZ Charge - Pune Hub 39,Pune,18.601781,73.728913,50.0,6,CCS2,Active
+40,1,Tata Power EZ Charge - Delhi NCR Hub 40,Delhi NCR,28.57144,77.093761,120.0,2,CCS2,Under Maintenance
+41,2,Statiq - Pune Hub 41,Pune,18.629331,73.893689,100.0,8,CCS2,Under Maintenance
+42,2,Statiq - Mumbai Hub 42,Mumbai,19.025269,72.746768,100.0,8,CCS2,Active
+43,2,Statiq - Jaipur Hub 43,Jaipur,26.855695,75.734855,100.0,6,CCS2,Active
+44,2,Statiq - Bengaluru Hub 44,Bengaluru,13.040482,77.635867,120.0,6,CCS2,Active
+45,2,Statiq - Surat Hub 45,Surat,21.286364,72.822764,120.0,2,CCS2,Active
+46,2,Statiq - Delhi NCR Hub 46,Delhi NCR,28.499778,77.272973,150.0,8,"CCS2, CHAdeMO",Active
+47,2,Statiq - Surat Hub 47,Surat,21.248436,72.849483,120.0,2,CCS2,Active
+48,2,Statiq - Surat Hub 48,Surat,21.25149,72.829239,60.0,4,"CCS2, CHAdeMO",Active
+49,2,Statiq - Hyderabad Hub 49,Hyderabad,17.39182,78.464962,100.0,6,CCS2,Active
+50,2,Statiq - Delhi NCR Hub 50,Delhi NCR,28.471526,77.091367,120.0,2,"CCS2, CHAdeMO",Active
+51,2,Statiq - Pune Hub 51,Pune,18.379829,73.897623,50.0,2,"CCS2, CHAdeMO",Active
+52,2,Statiq - Hyderabad Hub 52,Hyderabad,17.329307,78.489271,100.0,6,"CCS2, CHAdeMO",Active
+53,2,Statiq - Jaipur Hub 53,Jaipur,27.03467,75.712088,120.0,2,CCS2,Under Maintenance
+54,2,Statiq - Mumbai Hub 54,Mumbai,19.049115,72.954365,30.0,4,CCS2,Active
+55,2,Statiq - Surat Hub 55,Surat,21.088839,72.704194,60.0,6,CCS2,Active
+56,2,Statiq - Chennai Hub 56,Chennai,13.019625,80.169066,3.3,1,Type 2,Active
+57,2,Statiq - Chennai Hub 57,Chennai,13.211609,80.363136,60.0,6,CCS2,Active
+58,2,Statiq - Kolkata Hub 58,Kolkata,22.612621,88.475338,100.0,2,CCS2,Active
+59,2,Statiq - Mumbai Hub 59,Mumbai,19.167102,72.783671,60.0,4,CCS2,Active
+60,2,Statiq - Bengaluru Hub 60,Bengaluru,13.089368,77.606403,30.0,4,"CCS2, CHAdeMO",Active
+61,2,Statiq - Delhi NCR Hub 61,Delhi NCR,28.706132,77.327827,120.0,8,"CCS2, CHAdeMO",Inactive
+62,2,Statiq - Mumbai Hub 62,Mumbai,19.021401,72.760716,3.3,1,Type 2,Inactive
+63,2,Statiq - Mumbai Hub 63,Mumbai,18.994381,72.855832,3.3,1,Type 2,Active
+64,2,Statiq - Hyderabad Hub 64,Hyderabad,17.480404,78.594919,7.2,4,Type 2,Active
+65,2,Statiq - Pune Hub 65,Pune,18.372486,73.859924,150.0,2,CCS2,Active
+66,2,Statiq - Pune Hub 66,Pune,18.495623,73.773332,100.0,4,CCS2,Active
+67,2,Statiq - Pune Hub 67,Pune,18.40636,73.807985,60.0,6,"CCS2, CHAdeMO",Active
+68,2,Statiq - Jaipur Hub 68,Jaipur,27.045273,75.734261,120.0,2,CCS2,Active
+69,2,Statiq - Chennai Hub 69,Chennai,13.088337,80.331606,60.0,8,CCS2,Active
+70,2,Statiq - Hyderabad Hub 70,Hyderabad,17.344089,78.628235,120.0,4,CCS2,Active
+71,2,Statiq - Ahmedabad Hub 71,Ahmedabad,23.161234,72.496935,120.0,4,CCS2,Active
+72,2,Statiq - Delhi NCR Hub 72,Delhi NCR,28.613075,77.149263,7.2,4,Type 2,Active
+73,2,Statiq - Delhi NCR Hub 73,Delhi NCR,28.549352,77.070066,7.2,4,Type 2,Active
+74,2,Statiq - Ahmedabad Hub 74,Ahmedabad,23.055369,72.572204,150.0,4,CCS2,Active
+75,2,Statiq - Ahmedabad Hub 75,Ahmedabad,22.887944,72.504994,50.0,6,CCS2,Active
+76,2,Statiq - Bengaluru Hub 76,Bengaluru,13.09408,77.516469,50.0,6,CCS2,Active
+77,3,ChargeZone - Kolkata Hub 77,Kolkata,22.466068,88.360736,120.0,4,CCS2,Active
+78,3,ChargeZone - Chennai Hub 78,Chennai,13.228395,80.193317,150.0,2,CCS2,Active
+79,3,ChargeZone - Pune Hub 79,Pune,18.572041,73.935186,50.0,4,"CCS2, CHAdeMO",Active
+80,3,ChargeZone - Pune Hub 80,Pune,18.441691,73.925165,22.0,1,Type 2,Active
+81,3,ChargeZone - Surat Hub 81,Surat,21.130535,72.870792,150.0,8,CCS2,Active
+82,3,ChargeZone - Bengaluru Hub 82,Bengaluru,13.011659,77.605332,3.3,2,Type 2,Active
+83,3,ChargeZone - Jaipur Hub 83,Jaipur,26.789487,75.887891,120.0,2,CCS2,Active
+84,3,ChargeZone - Kolkata Hub 84,Kolkata,22.518834,88.269856,120.0,8,CCS2,Active
+85,3,ChargeZone - Jaipur Hub 85,Jaipur,26.774633,75.814568,120.0,4,CCS2,Active
+86,3,ChargeZone - Kolkata Hub 86,Kolkata,22.625869,88.218876,50.0,6,"CCS2, CHAdeMO",Active
+87,3,ChargeZone - Jaipur Hub 87,Jaipur,26.916028,75.705249,50.0,2,CCS2,Active
+88,3,ChargeZone - Pune Hub 88,Pune,18.563952,73.75901,60.0,2,"CCS2, CHAdeMO",Active
+89,3,ChargeZone - Pune Hub 89,Pune,18.577681,73.822721,50.0,2,CCS2,Active
+90,3,ChargeZone - Hyderabad Hub 90,Hyderabad,17.516019,78.377956,100.0,8,CCS2,Active
+91,3,ChargeZone - Surat Hub 91,Surat,21.12252,72.715142,3.3,4,Type 2,Active
+92,3,ChargeZone - Bengaluru Hub 92,Bengaluru,13.099008,77.707802,7.2,2,Type 2,Active
+93,3,ChargeZone - Ahmedabad Hub 93,Ahmedabad,22.949882,72.619395,150.0,4,CCS2,Active
+94,3,ChargeZone - Chennai Hub 94,Chennai,13.177867,80.28726,30.0,8,CCS2,Active
+95,3,ChargeZone - Kolkata Hub 95,Kolkata,22.581495,88.286456,22.0,4,Type 2,Active
+96,3,ChargeZone - Ahmedabad Hub 96,Ahmedabad,22.900431,72.690565,150.0,8,CCS2,Active
+97,3,ChargeZone - Kolkata Hub 97,Kolkata,22.692725,88.40383,60.0,4,CCS2,Active
+98,3,ChargeZone - Hyderabad Hub 98,Hyderabad,17.336709,78.441463,7.2,2,Type 2,Active
+99,4,Jio-bp Pulse - Ahmedabad Hub 99,Ahmedabad,23.090287,72.690533,30.0,2,CCS2,Inactive
+100,4,Jio-bp Pulse - Hyderabad Hub 100,Hyderabad,17.501126,78.570663,30.0,2,CCS2,Active
+101,4,Jio-bp Pulse - Pune Hub 101,Pune,18.563009,73.731942,30.0,4,CCS2,Active
+102,4,Jio-bp Pulse - Delhi NCR Hub 102,Delhi NCR,28.512389,77.328566,50.0,6,CCS2,Active
+103,4,Jio-bp Pulse - Mumbai Hub 103,Mumbai,19.107929,72.730459,150.0,4,CCS2,Under Maintenance
+104,4,Jio-bp Pulse - Delhi NCR Hub 104,Delhi NCR,28.494341,77.258051,60.0,8,CCS2,Active
+105,4,Jio-bp Pulse - Pune Hub 105,Pune,18.371918,73.754942,150.0,4,"CCS2, CHAdeMO",Active
+106,4,Jio-bp Pulse - Chennai Hub 106,Chennai,13.09732,80.328269,22.0,1,Type 2,Active
+107,4,Jio-bp Pulse - Surat Hub 107,Surat,21.215788,72.748381,7.2,4,Type 2,Active
+108,4,Jio-bp Pulse - Hyderabad Hub 108,Hyderabad,17.448654,78.407875,150.0,8,CCS2,Active
+109,4,Jio-bp Pulse - Delhi NCR Hub 109,Delhi NCR,28.56152,77.282947,60.0,8,CCS2,Active
+110,4,Jio-bp Pulse - Ahmedabad Hub 110,Ahmedabad,23.06739,72.676167,120.0,6,"CCS2, CHAdeMO",Active
+111,4,Jio-bp Pulse - Jaipur Hub 111,Jaipur,26.959684,75.807793,7.2,2,Type 2,Active
+112,4,Jio-bp Pulse - Surat Hub 112,Surat,21.048302,72.791415,50.0,2,"CCS2, CHAdeMO",Active
+113,4,Jio-bp Pulse - Kolkata Hub 113,Kolkata,22.502161,88.287097,100.0,8,CCS2,Active
+114,4,Jio-bp Pulse - Kolkata Hub 114,Kolkata,22.714503,88.331829,3.3,2,Type 2,Active
+115,4,Jio-bp Pulse - Chennai Hub 115,Chennai,13.200314,80.310042,120.0,6,CCS2,Active
+116,4,Jio-bp Pulse - Jaipur Hub 116,Jaipur,27.000843,75.788091,3.3,1,Type 2,Active
+117,5,Bolt.Earth - Kolkata Hub 117,Kolkata,22.595671,88.361655,50.0,8,CCS2,Active
+118,5,Bolt.Earth - Bengaluru Hub 118,Bengaluru,12.880173,77.661336,50.0,4,CCS2,Active
+119,5,Bolt.Earth - Surat Hub 119,Surat,21.104432,72.688395,120.0,8,CCS2,Inactive
+120,5,Bolt.Earth - Jaipur Hub 120,Jaipur,26.956042,75.690433,150.0,6,CCS2,Active
+121,5,Bolt.Earth - Delhi NCR Hub 121,Delhi NCR,28.746038,77.345179,7.2,1,Type 2,Active
+122,5,Bolt.Earth - Mumbai Hub 122,Mumbai,19.200459,72.838748,150.0,6,CCS2,Inactive
+123,5,Bolt.Earth - Pune Hub 123,Pune,18.375037,73.985196,60.0,2,CCS2,Active
+124,5,Bolt.Earth - Mumbai Hub 124,Mumbai,19.054455,73.017696,30.0,4,CCS2,Active
+125,5,Bolt.Earth - Kolkata Hub 125,Kolkata,22.711686,88.469803,30.0,8,CCS2,Active
+126,5,Bolt.Earth - Hyderabad Hub 126,Hyderabad,17.323335,78.452229,30.0,8,CCS2,Active
+127,5,Bolt.Earth - Delhi NCR Hub 127,Delhi NCR,28.719241,77.154077,30.0,2,CCS2,Active
+128,5,Bolt.Earth - Surat Hub 128,Surat,21.071048,72.84814,3.3,1,Type 2,Active
+129,5,Bolt.Earth - Ahmedabad Hub 129,Ahmedabad,23.153346,72.630209,120.0,8,CCS2,Active
+130,5,Bolt.Earth - Kolkata Hub 130,Kolkata,22.593618,88.243053,120.0,6,"CCS2, CHAdeMO",Active
+131,5,Bolt.Earth - Bengaluru Hub 131,Bengaluru,13.006102,77.741616,150.0,4,CCS2,Active
+132,5,Bolt.Earth - Chennai Hub 132,Chennai,12.974725,80.276199,50.0,2,CCS2,Active
+133,6,Zeon Charging - Ahmedabad Hub 133,Ahmedabad,23.135712,72.643631,120.0,2,CCS2,Active
+134,6,Zeon Charging - Chennai Hub 134,Chennai,13.141805,80.331445,7.2,1,Type 2,Active
+135,6,Zeon Charging - Chennai Hub 135,Chennai,13.040547,80.208778,22.0,4,Type 2,Active
+136,6,Zeon Charging - Pune Hub 136,Pune,18.613208,73.949734,120.0,4,CCS2,Under Maintenance
+137,6,Zeon Charging - Mumbai Hub 137,Mumbai,19.186122,73.001672,50.0,6,CCS2,Active
+138,6,Zeon Charging - Kolkata Hub 138,Kolkata,22.576003,88.364355,150.0,6,CCS2,Active
+139,6,Zeon Charging - Kolkata Hub 139,Kolkata,22.662089,88.408889,120.0,8,CCS2,Active
+140,6,Zeon Charging - Surat Hub 140,Surat,21.23079,72.919838,30.0,2,CCS2,Inactive
+141,6,Zeon Charging - Chennai Hub 141,Chennai,13.199702,80.222099,50.0,8,CCS2,Under Maintenance
+142,6,Zeon Charging - Mumbai Hub 142,Mumbai,19.038675,72.755895,7.2,4,Type 2,Active
+143,6,Zeon Charging - Delhi NCR Hub 143,Delhi NCR,28.637384,77.069783,100.0,2,CCS2,Active
+144,6,Zeon Charging - Hyderabad Hub 144,Hyderabad,17.374679,78.499493,100.0,8,CCS2,Active
+145,6,Zeon Charging - Jaipur Hub 145,Jaipur,26.848362,75.81455,30.0,6,CCS2,Active
+146,7,Kazam - Ahmedabad Hub 146,Ahmedabad,22.88165,72.432604,3.3,4,Type 2,Active
+147,7,Kazam - Kolkata Hub 147,Kolkata,22.66938,88.321957,50.0,8,CCS2,Active
+148,7,Kazam - Bengaluru Hub 148,Bengaluru,12.859718,77.601273,120.0,6,CCS2,Active
+149,7,Kazam - Kolkata Hub 149,Kolkata,22.653598,88.278646,150.0,4,CCS2,Active
+150,7,Kazam - Chennai Hub 150,Chennai,13.119567,80.146304,120.0,4,CCS2,Inactive
+151,7,Kazam - Delhi NCR Hub 151,Delhi NCR,28.479405,77.218406,30.0,4,CCS2,Active
+152,7,Kazam - Chennai Hub 152,Chennai,13.094891,80.311929,60.0,8,CCS2,Inactive
+153,7,Kazam - Pune Hub 153,Pune,18.588227,73.999456,50.0,4,CCS2,Active
+154,7,Kazam - Chennai Hub 154,Chennai,13.08759,80.217587,7.2,2,Type 2,Under Maintenance
+155,7,Kazam - Jaipur Hub 155,Jaipur,27.000956,75.71855,30.0,6,CCS2,Active
+156,7,Kazam - Surat Hub 156,Surat,21.151891,72.704637,7.2,1,Type 2,Active
+157,8,Shell Recharge - Kolkata Hub 157,Kolkata,22.430205,88.502695,120.0,8,CCS2,Active
+158,8,Shell Recharge - Hyderabad Hub 158,Hyderabad,17.485794,78.545492,22.0,1,Type 2,Active
+159,8,Shell Recharge - Pune Hub 159,Pune,18.493086,73.758688,7.2,1,Type 2,Active
+160,8,Shell Recharge - Kolkata Hub 160,Kolkata,22.469531,88.288973,7.2,2,Type 2,Inactive
+161,8,Shell Recharge - Mumbai Hub 161,Mumbai,19.090768,72.942079,30.0,6,CCS2,Active
+162,8,Shell Recharge - Kolkata Hub 162,Kolkata,22.620659,88.29788,100.0,4,CCS2,Active
+163,8,Shell Recharge - Mumbai Hub 163,Mumbai,19.21246,72.949069,60.0,8,CCS2,Active
+164,8,Shell Recharge - Hyderabad Hub 164,Hyderabad,17.401306,78.520216,22.0,2,Type 2,Under Maintenance
+165,8,Shell Recharge - Kolkata Hub 165,Kolkata,22.54848,88.288219,3.3,4,Type 2,Active
+166,8,Shell Recharge - Chennai Hub 166,Chennai,13.039492,80.348054,22.0,1,Type 2,Active
+167,8,Shell Recharge - Delhi NCR Hub 167,Delhi NCR,28.468218,77.093822,22.0,1,Type 2,Active
+168,9,Glida - Chennai Hub 168,Chennai,12.946501,80.132919,3.3,2,Type 2,Active
+169,9,Glida - Chennai Hub 169,Chennai,13.189338,80.331797,100.0,8,CCS2,Active
+170,9,Glida - Mumbai Hub 170,Mumbai,19.068252,72.75705,30.0,8,CCS2,Active
+171,9,Glida - Pune Hub 171,Pune,18.517885,73.848742,120.0,8,CCS2,Active
+172,9,Glida - Kolkata Hub 172,Kolkata,22.474561,88.344055,30.0,8,"CCS2, CHAdeMO",Under Maintenance
+173,9,Glida - Jaipur Hub 173,Jaipur,26.881951,75.822055,100.0,6,"CCS2, CHAdeMO",Active
+174,9,Glida - Ahmedabad Hub 174,Ahmedabad,23.063028,72.434991,100.0,4,"CCS2, CHAdeMO",Inactive
+175,9,Glida - Kolkata Hub 175,Kolkata,22.534984,88.401658,100.0,6,CCS2,Inactive
+176,9,Glida - Chennai Hub 176,Chennai,13.083641,80.377647,150.0,2,CCS2,Active
+177,10,ElectriVa - Bengaluru Hub 177,Bengaluru,13.019208,77.49348,22.0,2,Type 2,Active
+178,10,ElectriVa - Chennai Hub 178,Chennai,12.953871,80.313426,3.3,4,Type 2,Active
+179,10,ElectriVa - Pune Hub 179,Pune,18.378353,73.882433,120.0,4,CCS2,Active
+180,10,ElectriVa - Bengaluru Hub 180,Bengaluru,13.103669,77.617242,100.0,6,CCS2,Active
+181,10,ElectriVa - Delhi NCR Hub 181,Delhi NCR,28.580351,77.251986,7.2,4,Type 2,Active

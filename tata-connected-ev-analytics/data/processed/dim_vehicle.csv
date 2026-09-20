@@ -1,0 +1,251 @@
+vehicle_id,vin,model,variant,battery_capacity_kwh,battery_chemistry,motor_power_kw,torque_nm,drive_type,body_type,segment,launch_year,max_ac_charging_kw,max_dc_charging_kw,claimed_range_km,expected_real_world_range_km,kerb_weight_kg,purchase_date,driver_profile,city_registered
+1,MATT397RNW2D07001,Punch.ev,Standard Range (30 kWh),30.0,LFP,60.0,114,FWD,SUV,Compact SUV,2026,3.3,30.0,375,280,1360,2026-07-08,Conservative Driver,Bengaluru
+2,MATT4H7KT0TPB5002,Nexon.ev,Long Range (45 kWh),45.0,NMC,106.0,215,FWD,SUV,Compact SUV,2023,7.2,50.0,489,350,1500,2026-05-03,Long Distance Traveller,Mumbai
+3,MATT4UKTRHZCJU003,Nexon.ev,Medium Range (30 kWh),30.0,NMC,95.0,215,FWD,SUV,Compact SUV,2020,7.2,30.0,275,220,1400,2023-10-30,Highway Driver,Kolkata
+4,MATT31792739LC004,Punch.ev,Long Range (40 kWh),40.0,LFP,90.0,190,FWD,SUV,Compact SUV,2026,7.2,50.0,468,345,1360,2026-08-29,City Driver,Delhi NCR
+5,MATT4ML5R5CZMJ005,Nexon.ev,Long Range (45 kWh),45.0,NMC,106.0,215,FWD,SUV,Compact SUV,2023,7.2,50.0,489,350,1500,2025-03-31,Highway Driver,Ahmedabad
+6,MATT21A86YVAMD006,Tigor.ev,XZ+ Lux,26.0,NMC,55.0,170,FWD,Sedan,Compact Sedan,2021,7.2,50.0,315,250,1235,2025-05-21,Long Distance Traveller,Pune
+7,MATT4J8KWD7ZG3007,Nexon.ev,Medium Range (30 kWh),30.0,NMC,95.0,215,FWD,SUV,Compact SUV,2020,7.2,30.0,275,220,1400,2023-12-31,City Driver,Bengaluru
+8,MATT3D2CZHZV0P008,Punch.ev,Long Range (40 kWh),40.0,LFP,90.0,190,FWD,SUV,Compact SUV,2026,7.2,50.0,468,345,1360,2026-05-31,Highway Driver,Pune
+9,MATT43EEYV8G5X009,Nexon.ev,Long Range (45 kWh),45.0,NMC,106.0,215,FWD,SUV,Compact SUV,2023,7.2,50.0,489,350,1500,2026-08-14,Aggressive Driver,Delhi NCR
+10,MATT35SHSH0A0X010,Punch.ev,Long Range (40 kWh),40.0,LFP,90.0,190,FWD,SUV,Compact SUV,2026,7.2,50.0,468,345,1360,2026-06-30,Aggressive Driver,Ahmedabad
+11,MATT1VY2G2SS4F011,Tiago.ev,Medium Range (XE),19.2,NMC,45.0,110,FWD,Hatchback,A-Segment,2022,3.3,25.0,250,200,1235,2024-12-27,Conservative Driver,Delhi NCR
+12,MATT56HR6AZMEH012,Curvv.ev,Accomplished (45 kWh),45.0,LFP,110.0,215,FWD,SUV Coupe,Subcompact Crossover SUV,2024,7.2,60.0,502,340,1480,2025-10-15,City Driver,Delhi NCR
+13,MATT1772L7WV27013,Tiago.ev,Long Range (XZ+ Tech LR),24.0,NMC,55.0,114,FWD,Hatchback,A-Segment,2022,7.2,25.0,315,250,1255,2025-10-12,Highway Driver,Delhi NCR
+14,MATT4JFST63EDF014,Nexon.ev,Long Range (45 kWh),45.0,NMC,106.0,215,FWD,SUV,Compact SUV,2023,7.2,50.0,489,350,1500,2025-09-08,Highway Driver,Hyderabad
+15,MATT7DBV86ED98015,Sierra.ev,RWD (63 kWh),63.0,LFP,175.0,315,RWD,SUV,Midsize SUV,2026,7.2,120.0,565,450,1750,2026-08-31,Long Distance Traveller,Mumbai
+16,MATT51ZUYXV5G7016,Curvv.ev,Empowered+ A (55 kWh),55.0,LFP,123.0,215,FWD,SUV Coupe,Subcompact Crossover SUV,2024,7.2,70.0,585,410,1530,2026-04-01,Conservative Driver,Bengaluru
+17,MATT18SFDYZJP5017,Tiago.ev,Long Range (XZ+ Tech LR),24.0,NMC,55.0,114,FWD,Hatchback,A-Segment,2022,7.2,25.0,315,250,1255,2024-03-23,City Driver,Surat
+18,MATT3R1KGV5Y26018,Punch.ev,Long Range (40 kWh),40.0,LFP,90.0,190,FWD,SUV,Compact SUV,2026,7.2,50.0,468,345,1360,2026-05-20,Conservative Driver,Hyderabad
+19,MATT4W8KLDKHX6019,Nexon.ev,Medium Range (30 kWh),30.0,NMC,95.0,215,FWD,SUV,Compact SUV,2020,7.2,30.0,275,220,1400,2022-03-17,Highway Driver,Delhi NCR
+20,MATT19AR2FZZ27020,Tiago.ev,Long Range (XZ+ Tech LR),24.0,NMC,55.0,114,FWD,Hatchback,A-Segment,2022,7.2,25.0,315,250,1255,2025-12-27,City Driver,Jaipur
+21,MATT5C5UPLZM0T021,Curvv.ev,Empowered+ A (55 kWh),55.0,LFP,123.0,215,FWD,SUV Coupe,Subcompact Crossover SUV,2024,7.2,70.0,585,410,1530,2026-08-27,City Driver,Hyderabad
+22,MATT633J8KP6L8022,Harrier.ev,RWD (65 kWh),65.0,LFP,175.0,315,RWD,SUV,Midsize SUV,2025,7.2,100.0,538,400,1800,2026-08-26,Conservative Driver,Kolkata
+23,MATT5D90SM8RJE023,Curvv.ev,Accomplished (45 kWh),45.0,LFP,110.0,215,FWD,SUV Coupe,Subcompact Crossover SUV,2024,7.2,60.0,502,340,1480,2026-08-20,City Driver,Bengaluru
+24,MATT5JUK44AWTV024,Curvv.ev,Empowered+ A (55 kWh),55.0,LFP,123.0,215,FWD,SUV Coupe,Subcompact Crossover SUV,2024,7.2,70.0,585,410,1530,2026-06-04,Aggressive Driver,Delhi NCR
+25,MATT4SWDL5XVZT025,Nexon.ev,Medium Range (30 kWh),30.0,NMC,95.0,215,FWD,SUV,Compact SUV,2020,7.2,30.0,275,220,1400,2025-07-09,Aggressive Driver,Bengaluru
+26,MATT2XTVT8S3VV026,Tigor.ev,XZ+ Lux,26.0,NMC,55.0,170,FWD,Sedan,Compact Sedan,2021,7.2,50.0,315,250,1235,2025-05-19,City Driver,Ahmedabad
+27,MATT1T706AVY9M027,Tiago.ev,Medium Range (XE),19.2,NMC,45.0,110,FWD,Hatchback,A-Segment,2022,3.3,25.0,250,200,1235,2025-08-04,City Driver,Surat
+28,MATT33Z5Y83ERA028,Punch.ev,Long Range (40 kWh),40.0,LFP,90.0,190,FWD,SUV,Compact SUV,2026,7.2,50.0,468,345,1360,2026-08-21,Highway Driver,Pune
+29,MATT18P0XHPRNC029,Tiago.ev,Long Range (XZ+ Tech LR),24.0,NMC,55.0,114,FWD,Hatchback,A-Segment,2022,7.2,25.0,315,250,1255,2025-05-16,City Driver,Hyderabad
+30,MATT1UP9ADD94D030,Tiago.ev,Medium Range (XE),19.2,NMC,45.0,110,FWD,Hatchback,A-Segment,2022,3.3,25.0,250,200,1235,2025-11-13,Long Distance Traveller,Hyderabad
+31,MATT69J09EKMFE031,Harrier.ev,RWD (75 kWh),75.0,LFP,175.0,315,RWD,SUV,Midsize SUV,2025,7.2,120.0,627,490,1850,2026-09-07,City Driver,Pune
+32,MATT652HLBURN7032,Harrier.ev,AWD (75 kWh),75.0,LFP,291.0,504,AWD,SUV,Midsize SUV,2025,7.2,120.0,622,460,1950,2026-06-23,City Driver,Bengaluru
+33,MATT4V2DL6NG8M033,Nexon.ev,Long Range (45 kWh),45.0,NMC,106.0,215,FWD,SUV,Compact SUV,2023,7.2,50.0,489,350,1500,2026-06-27,City Driver,Hyderabad
+34,MATT2E5YH18UFT034,Tigor.ev,XZ+ Lux,26.0,NMC,55.0,170,FWD,Sedan,Compact Sedan,2021,7.2,50.0,315,250,1235,2025-03-10,Highway Driver,Surat
+35,MATT3WLPGUJWRF035,Punch.ev,Long Range (40 kWh),40.0,LFP,90.0,190,FWD,SUV,Compact SUV,2026,7.2,50.0,468,345,1360,2026-06-12,City Driver,Delhi NCR
+36,MATT3HL9298AH4036,Punch.ev,Long Range (40 kWh),40.0,LFP,90.0,190,FWD,SUV,Compact SUV,2026,7.2,50.0,468,345,1360,2026-04-13,City Driver,Hyderabad
+37,MATT2DHD6DWKNV037,Tigor.ev,XZ+ Lux,26.0,NMC,55.0,170,FWD,Sedan,Compact Sedan,2021,7.2,50.0,315,250,1235,2025-12-20,Aggressive Driver,Mumbai
+38,MATT4RVYDRJK77038,Nexon.ev,Medium Range (30 kWh),30.0,NMC,95.0,215,FWD,SUV,Compact SUV,2020,7.2,30.0,275,220,1400,2025-03-04,Conservative Driver,Bengaluru
+39,MATT1D5F4L0DJ0039,Tiago.ev,Long Range (XZ+ Tech LR),24.0,NMC,55.0,114,FWD,Hatchback,A-Segment,2022,7.2,25.0,315,250,1255,2024-07-31,Highway Driver,Bengaluru
+40,MATT1C6ASCRU82040,Tiago.ev,Medium Range (XE),19.2,NMC,45.0,110,FWD,Hatchback,A-Segment,2022,3.3,25.0,250,200,1235,2023-10-27,City Driver,Pune
+41,MATT7MSMRY6054041,Sierra.ev,RWD (63 kWh),63.0,LFP,175.0,315,RWD,SUV,Midsize SUV,2026,7.2,120.0,565,450,1750,2026-08-11,Highway Driver,Chennai
+42,MATT4S5LR3UY30042,Nexon.ev,Long Range (45 kWh),45.0,NMC,106.0,215,FWD,SUV,Compact SUV,2023,7.2,50.0,489,350,1500,2025-08-08,City Driver,Hyderabad
+43,MATT6P2NL3SVK3043,Harrier.ev,RWD (75 kWh),75.0,LFP,175.0,315,RWD,SUV,Midsize SUV,2025,7.2,120.0,627,490,1850,2026-03-02,Long Distance Traveller,Ahmedabad
+44,MATT1CGBVU3YLU044,Tiago.ev,Long Range (XZ+ Tech LR),24.0,NMC,55.0,114,FWD,Hatchback,A-Segment,2022,7.2,25.0,315,250,1255,2026-03-01,Highway Driver,Mumbai
+45,MATT28THFER8VU045,Tigor.ev,XZ+ Lux,26.0,NMC,55.0,170,FWD,Sedan,Compact Sedan,2021,7.2,50.0,315,250,1235,2025-03-15,City Driver,Kolkata
+46,MATT4LC0V66TBW046,Nexon.ev,Long Range (45 kWh),45.0,NMC,106.0,215,FWD,SUV,Compact SUV,2023,7.2,50.0,489,350,1500,2025-09-30,Highway Driver,Delhi NCR
+47,MATT42PGSNMGT3047,Nexon.ev,Long Range (45 kWh),45.0,NMC,106.0,215,FWD,SUV,Compact SUV,2023,7.2,50.0,489,350,1500,2025-03-05,City Driver,Hyderabad
+48,MATT1FHERAP883048,Tiago.ev,Long Range (XZ+ Tech LR),24.0,NMC,55.0,114,FWD,Hatchback,A-Segment,2022,7.2,25.0,315,250,1255,2026-07-27,City Driver,Bengaluru
+49,MATT367FPZH936049,Punch.ev,Long Range (40 kWh),40.0,LFP,90.0,190,FWD,SUV,Compact SUV,2026,7.2,50.0,468,345,1360,2026-09-16,City Driver,Delhi NCR
+50,MATT49ZJP4VGVJ050,Nexon.ev,Long Range (45 kWh),45.0,NMC,106.0,215,FWD,SUV,Compact SUV,2023,7.2,50.0,489,350,1500,2026-01-04,Conservative Driver,Mumbai
+51,MATT4YFUD2L14J051,Nexon.ev,Medium Range (30 kWh),30.0,NMC,95.0,215,FWD,SUV,Compact SUV,2020,7.2,30.0,275,220,1400,2023-10-19,City Driver,Surat
+52,MATT4LT7HEEVZA052,Nexon.ev,Long Range (45 kWh),45.0,NMC,106.0,215,FWD,SUV,Compact SUV,2023,7.2,50.0,489,350,1500,2026-06-30,Highway Driver,Chennai
+53,MATT266M5520EK053,Tigor.ev,XZ+ Lux,26.0,NMC,55.0,170,FWD,Sedan,Compact Sedan,2021,7.2,50.0,315,250,1235,2022-08-23,City Driver,Delhi NCR
+54,MATT2ENXSLMXEH054,Tigor.ev,XZ+ Lux,26.0,NMC,55.0,170,FWD,Sedan,Compact Sedan,2021,7.2,50.0,315,250,1235,2024-02-09,Highway Driver,Kolkata
+55,MATT55ARJ94NPY055,Curvv.ev,Accomplished (45 kWh),45.0,LFP,110.0,215,FWD,SUV Coupe,Subcompact Crossover SUV,2024,7.2,60.0,502,340,1480,2026-05-20,Conservative Driver,Pune
+56,MATT4EA83YUJYZ056,Nexon.ev,Medium Range (30 kWh),30.0,NMC,95.0,215,FWD,SUV,Compact SUV,2020,7.2,30.0,275,220,1400,2024-04-10,Highway Driver,Delhi NCR
+57,MATT4FMX5KLG3B057,Nexon.ev,Long Range (45 kWh),45.0,NMC,106.0,215,FWD,SUV,Compact SUV,2023,7.2,50.0,489,350,1500,2026-01-24,City Driver,Hyderabad
+58,MATT5N9YTJFAAZ058,Curvv.ev,Accomplished (45 kWh),45.0,LFP,110.0,215,FWD,SUV Coupe,Subcompact Crossover SUV,2024,7.2,60.0,502,340,1480,2025-07-09,Conservative Driver,Pune
+59,MATT7HD6BRLS6J059,Sierra.ev,RWD (75 kWh),75.0,LFP,156.0,315,RWD,SUV,Midsize SUV,2026,7.2,120.0,665,520,1800,2026-09-08,Long Distance Traveller,Mumbai
+60,MATT3ZL75JJ3ZX060,Punch.ev,Standard Range (30 kWh),30.0,LFP,60.0,114,FWD,SUV,Compact SUV,2026,3.3,30.0,375,280,1360,2026-05-07,Conservative Driver,Bengaluru
+61,MATT5PG9UZ8JCX061,Curvv.ev,Empowered+ A (55 kWh),55.0,LFP,123.0,215,FWD,SUV Coupe,Subcompact Crossover SUV,2024,7.2,70.0,585,410,1530,2026-07-03,Conservative Driver,Kolkata
+62,MATT5TDXGU99KZ062,Curvv.ev,Accomplished (45 kWh),45.0,LFP,110.0,215,FWD,SUV Coupe,Subcompact Crossover SUV,2024,7.2,60.0,502,340,1480,2025-03-06,Conservative Driver,Bengaluru
+63,MATT3JHFA6PJ7S063,Punch.ev,Standard Range (30 kWh),30.0,LFP,60.0,114,FWD,SUV,Compact SUV,2026,3.3,30.0,375,280,1360,2026-06-25,City Driver,Hyderabad
+64,MATT2CMUZG1GKV064,Tigor.ev,XZ+ Lux,26.0,NMC,55.0,170,FWD,Sedan,Compact Sedan,2021,7.2,50.0,315,250,1235,2024-10-09,Aggressive Driver,Mumbai
+65,MATT3PDM5FYBNM065,Punch.ev,Long Range (40 kWh),40.0,LFP,90.0,190,FWD,SUV,Compact SUV,2026,7.2,50.0,468,345,1360,2026-07-27,Aggressive Driver,Kolkata
+66,MATT5APSV12LXZ066,Curvv.ev,Accomplished (45 kWh),45.0,LFP,110.0,215,FWD,SUV Coupe,Subcompact Crossover SUV,2024,7.2,60.0,502,340,1480,2026-04-04,Highway Driver,Mumbai
+67,MATT4VENW1T9C4067,Nexon.ev,Long Range (45 kWh),45.0,NMC,106.0,215,FWD,SUV,Compact SUV,2023,7.2,50.0,489,350,1500,2025-03-30,Conservative Driver,Chennai
+68,MATT22VL7X4F88068,Tigor.ev,XZ+ Lux,26.0,NMC,55.0,170,FWD,Sedan,Compact Sedan,2021,7.2,50.0,315,250,1235,2023-07-31,City Driver,Ahmedabad
+69,MATT65EBKME8U6069,Harrier.ev,RWD (75 kWh),75.0,LFP,175.0,315,RWD,SUV,Midsize SUV,2025,7.2,120.0,627,490,1850,2026-03-23,City Driver,Pune
+70,MATT4JZ9ZM9JNR070,Nexon.ev,Long Range (45 kWh),45.0,NMC,106.0,215,FWD,SUV,Compact SUV,2023,7.2,50.0,489,350,1500,2025-11-13,City Driver,Chennai
+71,MATT19TLBMLNPM071,Tiago.ev,Long Range (XZ+ Tech LR),24.0,NMC,55.0,114,FWD,Hatchback,A-Segment,2022,7.2,25.0,315,250,1255,2022-10-21,Aggressive Driver,Chennai
+72,MATT6AEKR29R54072,Harrier.ev,RWD (75 kWh),75.0,LFP,175.0,315,RWD,SUV,Midsize SUV,2025,7.2,120.0,627,490,1850,2026-06-08,Conservative Driver,Surat
+73,MATT3U8UFTRB3Y073,Punch.ev,Long Range (40 kWh),40.0,LFP,90.0,190,FWD,SUV,Compact SUV,2026,7.2,50.0,468,345,1360,2026-05-24,City Driver,Surat
+74,MATT5ZYTCT0HFN074,Curvv.ev,Empowered+ A (55 kWh),55.0,LFP,123.0,215,FWD,SUV Coupe,Subcompact Crossover SUV,2024,7.2,70.0,585,410,1530,2026-01-27,Highway Driver,Chennai
+75,MATT5370WJX72U075,Curvv.ev,Empowered+ A (55 kWh),55.0,LFP,123.0,215,FWD,SUV Coupe,Subcompact Crossover SUV,2024,7.2,70.0,585,410,1530,2025-08-04,Long Distance Traveller,Delhi NCR
+76,MATT1YAG3W4ENR076,Tiago.ev,Medium Range (XE),19.2,NMC,45.0,110,FWD,Hatchback,A-Segment,2022,3.3,25.0,250,200,1235,2025-05-21,Long Distance Traveller,Mumbai
+77,MATT2D3GDY1CEY077,Tigor.ev,XZ+ Lux,26.0,NMC,55.0,170,FWD,Sedan,Compact Sedan,2021,7.2,50.0,315,250,1235,2021-10-25,Aggressive Driver,Bengaluru
+78,MATT3ZBD64UFMM078,Punch.ev,Long Range (40 kWh),40.0,LFP,90.0,190,FWD,SUV,Compact SUV,2026,7.2,50.0,468,345,1360,2026-07-07,Conservative Driver,Bengaluru
+79,MATT24J2S67VA4079,Tigor.ev,XZ+ Lux,26.0,NMC,55.0,170,FWD,Sedan,Compact Sedan,2021,7.2,50.0,315,250,1235,2024-09-01,Long Distance Traveller,Bengaluru
+80,MATT5485M00T7A080,Curvv.ev,Accomplished (45 kWh),45.0,LFP,110.0,215,FWD,SUV Coupe,Subcompact Crossover SUV,2024,7.2,60.0,502,340,1480,2026-05-20,City Driver,Bengaluru
+81,MATT2RFSG3GY1S081,Tigor.ev,XZ+ Lux,26.0,NMC,55.0,170,FWD,Sedan,Compact Sedan,2021,7.2,50.0,315,250,1235,2023-11-06,Aggressive Driver,Pune
+82,MATT12FDNGX22L082,Tiago.ev,Long Range (XZ+ Tech LR),24.0,NMC,55.0,114,FWD,Hatchback,A-Segment,2022,7.2,25.0,315,250,1255,2025-08-30,City Driver,Delhi NCR
+83,MATT3AZHEK3PVM083,Punch.ev,Long Range (40 kWh),40.0,LFP,90.0,190,FWD,SUV,Compact SUV,2026,7.2,50.0,468,345,1360,2026-06-10,Aggressive Driver,Hyderabad
+84,MATT47BED3EMC5084,Nexon.ev,Long Range (45 kWh),45.0,NMC,106.0,215,FWD,SUV,Compact SUV,2023,7.2,50.0,489,350,1500,2026-05-02,Long Distance Traveller,Bengaluru
+85,MATT53RTJKJA4B085,Curvv.ev,Accomplished (45 kWh),45.0,LFP,110.0,215,FWD,SUV Coupe,Subcompact Crossover SUV,2024,7.2,60.0,502,340,1480,2026-08-09,Highway Driver,Hyderabad
+86,MATT5YKBK7M73U086,Curvv.ev,Empowered+ A (55 kWh),55.0,LFP,123.0,215,FWD,SUV Coupe,Subcompact Crossover SUV,2024,7.2,70.0,585,410,1530,2025-09-24,City Driver,Ahmedabad
+87,MATT3UZULM0XU8087,Punch.ev,Long Range (40 kWh),40.0,LFP,90.0,190,FWD,SUV,Compact SUV,2026,7.2,50.0,468,345,1360,2026-09-15,City Driver,Hyderabad
+88,MATT10VJD4L1R7088,Tiago.ev,Medium Range (XE),19.2,NMC,45.0,110,FWD,Hatchback,A-Segment,2022,3.3,25.0,250,200,1235,2024-01-04,Conservative Driver,Mumbai
+89,MATT1SJ215LN8M089,Tiago.ev,Long Range (XZ+ Tech LR),24.0,NMC,55.0,114,FWD,Hatchback,A-Segment,2022,7.2,25.0,315,250,1255,2026-02-21,Conservative Driver,Mumbai
+90,MATT43E9NGN1DK090,Nexon.ev,Long Range (45 kWh),45.0,NMC,106.0,215,FWD,SUV,Compact SUV,2023,7.2,50.0,489,350,1500,2026-04-02,City Driver,Delhi NCR
+91,MATT48A0R5CPGU091,Nexon.ev,Medium Range (30 kWh),30.0,NMC,95.0,215,FWD,SUV,Compact SUV,2020,7.2,30.0,275,220,1400,2024-03-24,Aggressive Driver,Bengaluru
+92,MATT50XVKJPD30092,Curvv.ev,Accomplished (45 kWh),45.0,LFP,110.0,215,FWD,SUV Coupe,Subcompact Crossover SUV,2024,7.2,60.0,502,340,1480,2024-07-22,City Driver,Ahmedabad
+93,MATT3X2U8KHDAB093,Punch.ev,Long Range (40 kWh),40.0,LFP,90.0,190,FWD,SUV,Compact SUV,2026,7.2,50.0,468,345,1360,2026-04-06,City Driver,Delhi NCR
+94,MATT3GWBRUT746094,Punch.ev,Standard Range (30 kWh),30.0,LFP,60.0,114,FWD,SUV,Compact SUV,2026,3.3,30.0,375,280,1360,2026-09-08,Highway Driver,Ahmedabad
+95,MATT3SGRSEXJLL095,Punch.ev,Standard Range (30 kWh),30.0,LFP,60.0,114,FWD,SUV,Compact SUV,2026,3.3,30.0,375,280,1360,2026-08-30,Aggressive Driver,Chennai
+96,MATT4E991GAE1U096,Nexon.ev,Medium Range (30 kWh),30.0,NMC,95.0,215,FWD,SUV,Compact SUV,2020,7.2,30.0,275,220,1400,2026-02-19,City Driver,Kolkata
+97,MATT5GFJTWETMA097,Curvv.ev,Empowered+ A (55 kWh),55.0,LFP,123.0,215,FWD,SUV Coupe,Subcompact Crossover SUV,2024,7.2,70.0,585,410,1530,2026-07-21,Conservative Driver,Bengaluru
+98,MATT4WBPG58EEH098,Nexon.ev,Medium Range (30 kWh),30.0,NMC,95.0,215,FWD,SUV,Compact SUV,2020,7.2,30.0,275,220,1400,2024-03-16,City Driver,Mumbai
+99,MATT4BKTM23N9P099,Nexon.ev,Long Range (45 kWh),45.0,NMC,106.0,215,FWD,SUV,Compact SUV,2023,7.2,50.0,489,350,1500,2026-07-21,Highway Driver,Kolkata
+100,MATT5K4BYPCKXA100,Curvv.ev,Accomplished (45 kWh),45.0,LFP,110.0,215,FWD,SUV Coupe,Subcompact Crossover SUV,2024,7.2,60.0,502,340,1480,2025-11-30,City Driver,Ahmedabad
+101,MATT5URNHMDBB5101,Curvv.ev,Empowered+ A (55 kWh),55.0,LFP,123.0,215,FWD,SUV Coupe,Subcompact Crossover SUV,2024,7.2,70.0,585,410,1530,2026-08-07,City Driver,Jaipur
+102,MATT142U3SUW1B102,Tiago.ev,Medium Range (XE),19.2,NMC,45.0,110,FWD,Hatchback,A-Segment,2022,3.3,25.0,250,200,1235,2025-11-09,Aggressive Driver,Bengaluru
+103,MATT1UST5EDN7E103,Tiago.ev,Medium Range (XE),19.2,NMC,45.0,110,FWD,Hatchback,A-Segment,2022,3.3,25.0,250,200,1235,2024-10-08,City Driver,Hyderabad
+104,MATT1ATFUCYZF9104,Tiago.ev,Long Range (XZ+ Tech LR),24.0,NMC,55.0,114,FWD,Hatchback,A-Segment,2022,7.2,25.0,315,250,1255,2026-04-30,City Driver,Pune
+105,MATT7T48MVJ3UV105,Sierra.ev,AWD / QWD (75 kWh),75.0,LFP,259.0,504,AWD,SUV,Midsize SUV,2026,7.2,120.0,624,490,1900,2026-06-29,City Driver,Ahmedabad
+106,MATT44EY7EB01G106,Nexon.ev,Long Range (45 kWh),45.0,NMC,106.0,215,FWD,SUV,Compact SUV,2023,7.2,50.0,489,350,1500,2025-08-08,City Driver,Surat
+107,MATT1XUMT49UN4107,Tiago.ev,Medium Range (XE),19.2,NMC,45.0,110,FWD,Hatchback,A-Segment,2022,3.3,25.0,250,200,1235,2025-03-29,Highway Driver,Mumbai
+108,MATT48UJPH3991108,Nexon.ev,Medium Range (30 kWh),30.0,NMC,95.0,215,FWD,SUV,Compact SUV,2020,7.2,30.0,275,220,1400,2023-08-17,Conservative Driver,Ahmedabad
+109,MATT1WK0H74EL7109,Tiago.ev,Medium Range (XE),19.2,NMC,45.0,110,FWD,Hatchback,A-Segment,2022,3.3,25.0,250,200,1235,2026-01-13,Conservative Driver,Hyderabad
+110,MATT42HGZJCFLZ110,Nexon.ev,Long Range (45 kWh),45.0,NMC,106.0,215,FWD,SUV,Compact SUV,2023,7.2,50.0,489,350,1500,2024-12-04,City Driver,Bengaluru
+111,MATT2RLSRA1JT5111,Tigor.ev,XZ+ Lux,26.0,NMC,55.0,170,FWD,Sedan,Compact Sedan,2021,7.2,50.0,315,250,1235,2025-10-25,Aggressive Driver,Pune
+112,MATT3T2SF9161X112,Punch.ev,Long Range (40 kWh),40.0,LFP,90.0,190,FWD,SUV,Compact SUV,2026,7.2,50.0,468,345,1360,2026-09-12,Conservative Driver,Surat
+113,MATT3R6BSVA4CW113,Punch.ev,Standard Range (30 kWh),30.0,LFP,60.0,114,FWD,SUV,Compact SUV,2026,3.3,30.0,375,280,1360,2026-05-01,Highway Driver,Kolkata
+114,MATT1GGXHTP2KU114,Tiago.ev,Long Range (XZ+ Tech LR),24.0,NMC,55.0,114,FWD,Hatchback,A-Segment,2022,7.2,25.0,315,250,1255,2024-10-13,Conservative Driver,Mumbai
+115,MATT4AKENB1VBZ115,Nexon.ev,Long Range (45 kWh),45.0,NMC,106.0,215,FWD,SUV,Compact SUV,2023,7.2,50.0,489,350,1500,2026-06-26,City Driver,Surat
+116,MATT6MBTNY4LS1116,Harrier.ev,RWD (65 kWh),65.0,LFP,175.0,315,RWD,SUV,Midsize SUV,2025,7.2,100.0,538,400,1800,2026-01-20,City Driver,Ahmedabad
+117,MATT1JKNYCSJHD117,Tiago.ev,Medium Range (XE),19.2,NMC,45.0,110,FWD,Hatchback,A-Segment,2022,3.3,25.0,250,200,1235,2024-06-18,Highway Driver,Delhi NCR
+118,MATT4GCJ88EZ9X118,Nexon.ev,Long Range (45 kWh),45.0,NMC,106.0,215,FWD,SUV,Compact SUV,2023,7.2,50.0,489,350,1500,2024-07-04,Conservative Driver,Bengaluru
+119,MATT5WE2NUAB2H119,Curvv.ev,Empowered+ A (55 kWh),55.0,LFP,123.0,215,FWD,SUV Coupe,Subcompact Crossover SUV,2024,7.2,70.0,585,410,1530,2025-05-10,Aggressive Driver,Kolkata
+120,MATT2MTG464T0J120,Tigor.ev,XZ+ Lux,26.0,NMC,55.0,170,FWD,Sedan,Compact Sedan,2021,7.2,50.0,315,250,1235,2024-06-10,City Driver,Ahmedabad
+121,MATT32AZPHSU2Z121,Punch.ev,Long Range (40 kWh),40.0,LFP,90.0,190,FWD,SUV,Compact SUV,2026,7.2,50.0,468,345,1360,2026-06-16,Highway Driver,Mumbai
+122,MATT3VSM6YEX14122,Punch.ev,Standard Range (30 kWh),30.0,LFP,60.0,114,FWD,SUV,Compact SUV,2026,3.3,30.0,375,280,1360,2026-09-17,City Driver,Delhi NCR
+123,MATT1BYWU8LJ49123,Tiago.ev,Long Range (XZ+ Tech LR),24.0,NMC,55.0,114,FWD,Hatchback,A-Segment,2022,7.2,25.0,315,250,1255,2025-05-13,Conservative Driver,Pune
+124,MATT45MPKUJU01124,Nexon.ev,Long Range (45 kWh),45.0,NMC,106.0,215,FWD,SUV,Compact SUV,2023,7.2,50.0,489,350,1500,2025-08-30,Highway Driver,Chennai
+125,MATT3DMGL9YFTN125,Punch.ev,Long Range (40 kWh),40.0,LFP,90.0,190,FWD,SUV,Compact SUV,2026,7.2,50.0,468,345,1360,2026-03-27,City Driver,Bengaluru
+126,MATT4F6LAPRVZ4126,Nexon.ev,Long Range (45 kWh),45.0,NMC,106.0,215,FWD,SUV,Compact SUV,2023,7.2,50.0,489,350,1500,2023-12-15,City Driver,Chennai
+127,MATT18839CL8V5127,Tiago.ev,Long Range (XZ+ Tech LR),24.0,NMC,55.0,114,FWD,Hatchback,A-Segment,2022,7.2,25.0,315,250,1255,2025-03-07,City Driver,Chennai
+128,MATT1GGGA0YGY7128,Tiago.ev,Long Range (XZ+ Tech LR),24.0,NMC,55.0,114,FWD,Hatchback,A-Segment,2022,7.2,25.0,315,250,1255,2023-03-19,City Driver,Bengaluru
+129,MATT1MFHUEWRSC129,Tiago.ev,Long Range (XZ+ Tech LR),24.0,NMC,55.0,114,FWD,Hatchback,A-Segment,2022,7.2,25.0,315,250,1255,2023-09-15,Conservative Driver,Chennai
+130,MATT42GS9ZN3ZC130,Nexon.ev,Long Range (45 kWh),45.0,NMC,106.0,215,FWD,SUV,Compact SUV,2023,7.2,50.0,489,350,1500,2026-06-07,Aggressive Driver,Mumbai
+131,MATT66GG14AFFL131,Harrier.ev,AWD (75 kWh),75.0,LFP,291.0,504,AWD,SUV,Midsize SUV,2025,7.2,120.0,622,460,1950,2025-12-03,Conservative Driver,Mumbai
+132,MATT3ZR9BUHP9T132,Punch.ev,Standard Range (30 kWh),30.0,LFP,60.0,114,FWD,SUV,Compact SUV,2026,3.3,30.0,375,280,1360,2026-08-31,City Driver,Hyderabad
+133,MATT7TPN0FYSSK133,Sierra.ev,RWD (75 kWh),75.0,LFP,156.0,315,RWD,SUV,Midsize SUV,2026,7.2,120.0,665,520,1800,2026-02-01,Highway Driver,Chennai
+134,MATT4LU4N1Y30A134,Nexon.ev,Long Range (45 kWh),45.0,NMC,106.0,215,FWD,SUV,Compact SUV,2023,7.2,50.0,489,350,1500,2024-06-09,City Driver,Hyderabad
+135,MATT1XVR246AMH135,Tiago.ev,Long Range (XZ+ Tech LR),24.0,NMC,55.0,114,FWD,Hatchback,A-Segment,2022,7.2,25.0,315,250,1255,2026-02-27,City Driver,Delhi NCR
+136,MATT6BSPMNL68J136,Harrier.ev,RWD (75 kWh),75.0,LFP,175.0,315,RWD,SUV,Midsize SUV,2025,7.2,120.0,627,490,1850,2026-08-23,City Driver,Surat
+137,MATT46PABXT94N137,Nexon.ev,Medium Range (30 kWh),30.0,NMC,95.0,215,FWD,SUV,Compact SUV,2020,7.2,30.0,275,220,1400,2026-03-31,City Driver,Surat
+138,MATT5T99PBE8F6138,Curvv.ev,Empowered+ A (55 kWh),55.0,LFP,123.0,215,FWD,SUV Coupe,Subcompact Crossover SUV,2024,7.2,70.0,585,410,1530,2025-06-23,Conservative Driver,Jaipur
+139,MATT3LK8NHM1DP139,Punch.ev,Standard Range (30 kWh),30.0,LFP,60.0,114,FWD,SUV,Compact SUV,2026,3.3,30.0,375,280,1360,2026-08-22,City Driver,Ahmedabad
+140,MATT4XDXVF6YAM140,Nexon.ev,Long Range (45 kWh),45.0,NMC,106.0,215,FWD,SUV,Compact SUV,2023,7.2,50.0,489,350,1500,2026-09-05,Long Distance Traveller,Bengaluru
+141,MATT3PXX5W5XZD141,Punch.ev,Long Range (40 kWh),40.0,LFP,90.0,190,FWD,SUV,Compact SUV,2026,7.2,50.0,468,345,1360,2026-09-14,Conservative Driver,Jaipur
+142,MATT7V0J3Z9ZHG142,Sierra.ev,AWD / QWD (75 kWh),75.0,LFP,259.0,504,AWD,SUV,Midsize SUV,2026,7.2,120.0,624,490,1900,2026-09-08,Long Distance Traveller,Kolkata
+143,MATT135F86RTJR143,Tiago.ev,Medium Range (XE),19.2,NMC,45.0,110,FWD,Hatchback,A-Segment,2022,3.3,25.0,250,200,1235,2024-04-15,City Driver,Kolkata
+144,MATT5H2N64A887144,Curvv.ev,Empowered+ A (55 kWh),55.0,LFP,123.0,215,FWD,SUV Coupe,Subcompact Crossover SUV,2024,7.2,70.0,585,410,1530,2026-06-28,Aggressive Driver,Jaipur
+145,MATT10MN23ADGW145,Tiago.ev,Long Range (XZ+ Tech LR),24.0,NMC,55.0,114,FWD,Hatchback,A-Segment,2022,7.2,25.0,315,250,1255,2025-05-23,Highway Driver,Mumbai
+146,MATT49L745RKDJ146,Nexon.ev,Long Range (45 kWh),45.0,NMC,106.0,215,FWD,SUV,Compact SUV,2023,7.2,50.0,489,350,1500,2026-01-24,Conservative Driver,Pune
+147,MATT38RV2EP2J2147,Punch.ev,Standard Range (30 kWh),30.0,LFP,60.0,114,FWD,SUV,Compact SUV,2026,3.3,30.0,375,280,1360,2026-08-08,Conservative Driver,Pune
+148,MATT3AH36K3GTE148,Punch.ev,Standard Range (30 kWh),30.0,LFP,60.0,114,FWD,SUV,Compact SUV,2026,3.3,30.0,375,280,1360,2026-05-06,Conservative Driver,Pune
+149,MATT4TPDTRK1B2149,Nexon.ev,Long Range (45 kWh),45.0,NMC,106.0,215,FWD,SUV,Compact SUV,2023,7.2,50.0,489,350,1500,2025-01-31,Long Distance Traveller,Jaipur
+150,MATT41DSSZMDZC150,Nexon.ev,Long Range (45 kWh),45.0,NMC,106.0,215,FWD,SUV,Compact SUV,2023,7.2,50.0,489,350,1500,2026-08-07,Aggressive Driver,Kolkata
+151,MATT1MHMB5HHR7151,Tiago.ev,Long Range (XZ+ Tech LR),24.0,NMC,55.0,114,FWD,Hatchback,A-Segment,2022,7.2,25.0,315,250,1255,2022-11-27,City Driver,Bengaluru
+152,MATT4HHU8B9XP3152,Nexon.ev,Long Range (45 kWh),45.0,NMC,106.0,215,FWD,SUV,Compact SUV,2023,7.2,50.0,489,350,1500,2026-09-12,Aggressive Driver,Mumbai
+153,MATT20631KP1RD153,Tigor.ev,XZ+ Lux,26.0,NMC,55.0,170,FWD,Sedan,Compact Sedan,2021,7.2,50.0,315,250,1235,2026-06-22,City Driver,Delhi NCR
+154,MATT5G9TRAKNA9154,Curvv.ev,Accomplished (45 kWh),45.0,LFP,110.0,215,FWD,SUV Coupe,Subcompact Crossover SUV,2024,7.2,60.0,502,340,1480,2025-11-27,City Driver,Hyderabad
+155,MATT42YWXLEGZY155,Nexon.ev,Medium Range (30 kWh),30.0,NMC,95.0,215,FWD,SUV,Compact SUV,2020,7.2,30.0,275,220,1400,2025-07-20,Highway Driver,Ahmedabad
+156,MATT14CRFV9PTX156,Tiago.ev,Long Range (XZ+ Tech LR),24.0,NMC,55.0,114,FWD,Hatchback,A-Segment,2022,7.2,25.0,315,250,1255,2025-02-05,Conservative Driver,Surat
+157,MATT386MXU3P68157,Punch.ev,Standard Range (30 kWh),30.0,LFP,60.0,114,FWD,SUV,Compact SUV,2026,3.3,30.0,375,280,1360,2026-04-06,Highway Driver,Chennai
+158,MATT5SPJFVAY0X158,Curvv.ev,Accomplished (45 kWh),45.0,LFP,110.0,215,FWD,SUV Coupe,Subcompact Crossover SUV,2024,7.2,60.0,502,340,1480,2026-05-01,Long Distance Traveller,Bengaluru
+159,MATT78K6XJSCHB159,Sierra.ev,RWD (75 kWh),75.0,LFP,156.0,315,RWD,SUV,Midsize SUV,2026,7.2,120.0,665,520,1800,2026-04-16,City Driver,Pune
+160,MATT1ZFUXCDJ74160,Tiago.ev,Medium Range (XE),19.2,NMC,45.0,110,FWD,Hatchback,A-Segment,2022,3.3,25.0,250,200,1235,2024-09-12,City Driver,Jaipur
+161,MATT35ACUGMN8U161,Punch.ev,Long Range (40 kWh),40.0,LFP,90.0,190,FWD,SUV,Compact SUV,2026,7.2,50.0,468,345,1360,2026-03-06,Long Distance Traveller,Chennai
+162,MATT1T5PGXHM11162,Tiago.ev,Medium Range (XE),19.2,NMC,45.0,110,FWD,Hatchback,A-Segment,2022,3.3,25.0,250,200,1235,2025-06-04,Aggressive Driver,Jaipur
+163,MATT3DU7P0GCLN163,Punch.ev,Long Range (40 kWh),40.0,LFP,90.0,190,FWD,SUV,Compact SUV,2026,7.2,50.0,468,345,1360,2026-08-02,Highway Driver,Pune
+164,MATT1J0H9Z0TNT164,Tiago.ev,Medium Range (XE),19.2,NMC,45.0,110,FWD,Hatchback,A-Segment,2022,3.3,25.0,250,200,1235,2025-08-23,Long Distance Traveller,Bengaluru
+165,MATT46HT8DCDJZ165,Nexon.ev,Medium Range (30 kWh),30.0,NMC,95.0,215,FWD,SUV,Compact SUV,2020,7.2,30.0,275,220,1400,2026-02-27,City Driver,Hyderabad
+166,MATT5VS3CJ105G166,Curvv.ev,Empowered+ A (55 kWh),55.0,LFP,123.0,215,FWD,SUV Coupe,Subcompact Crossover SUV,2024,7.2,70.0,585,410,1530,2026-09-15,Conservative Driver,Ahmedabad
+167,MATT33H16VWF12167,Punch.ev,Long Range (40 kWh),40.0,LFP,90.0,190,FWD,SUV,Compact SUV,2026,7.2,50.0,468,345,1360,2026-08-12,Long Distance Traveller,Kolkata
+168,MATT3XAYKRPD25168,Punch.ev,Standard Range (30 kWh),30.0,LFP,60.0,114,FWD,SUV,Compact SUV,2026,3.3,30.0,375,280,1360,2026-04-12,City Driver,Ahmedabad
+169,MATT1AR4ZPGZ1E169,Tiago.ev,Long Range (XZ+ Tech LR),24.0,NMC,55.0,114,FWD,Hatchback,A-Segment,2022,7.2,25.0,315,250,1255,2025-11-14,Aggressive Driver,Mumbai
+170,MATT2DS09ZGBYE170,Tigor.ev,XZ+ Lux,26.0,NMC,55.0,170,FWD,Sedan,Compact Sedan,2021,7.2,50.0,315,250,1235,2023-02-15,Highway Driver,Hyderabad
+171,MATT4TP25PLRA3171,Nexon.ev,Long Range (45 kWh),45.0,NMC,106.0,215,FWD,SUV,Compact SUV,2023,7.2,50.0,489,350,1500,2023-04-05,City Driver,Delhi NCR
+172,MATT146EJD0B3K172,Tiago.ev,Medium Range (XE),19.2,NMC,45.0,110,FWD,Hatchback,A-Segment,2022,3.3,25.0,250,200,1235,2025-10-09,City Driver,Mumbai
+173,MATT42WWZJ5C49173,Nexon.ev,Medium Range (30 kWh),30.0,NMC,95.0,215,FWD,SUV,Compact SUV,2020,7.2,30.0,275,220,1400,2025-03-25,Conservative Driver,Bengaluru
+174,MATT1F288LK63A174,Tiago.ev,Long Range (XZ+ Tech LR),24.0,NMC,55.0,114,FWD,Hatchback,A-Segment,2022,7.2,25.0,315,250,1255,2026-06-11,Long Distance Traveller,Mumbai
+175,MATT3ABTVZ4AY6175,Punch.ev,Long Range (40 kWh),40.0,LFP,90.0,190,FWD,SUV,Compact SUV,2026,7.2,50.0,468,345,1360,2026-08-07,City Driver,Surat
+176,MATT7NGK8CTC3J176,Sierra.ev,RWD (63 kWh),63.0,LFP,175.0,315,RWD,SUV,Midsize SUV,2026,7.2,120.0,565,450,1750,2026-05-19,Conservative Driver,Pune
+177,MATT3YFPE9NUTD177,Punch.ev,Long Range (40 kWh),40.0,LFP,90.0,190,FWD,SUV,Compact SUV,2026,7.2,50.0,468,345,1360,2026-09-04,Conservative Driver,Chennai
+178,MATT4PT2ZFDGXN178,Nexon.ev,Long Range (45 kWh),45.0,NMC,106.0,215,FWD,SUV,Compact SUV,2023,7.2,50.0,489,350,1500,2026-04-09,Conservative Driver,Ahmedabad
+179,MATT1HM2SMBM1Z179,Tiago.ev,Long Range (XZ+ Tech LR),24.0,NMC,55.0,114,FWD,Hatchback,A-Segment,2022,7.2,25.0,315,250,1255,2025-08-22,Highway Driver,Mumbai
+180,MATT2E08GHKJEC180,Tigor.ev,XZ+ Lux,26.0,NMC,55.0,170,FWD,Sedan,Compact Sedan,2021,7.2,50.0,315,250,1235,2023-01-19,Aggressive Driver,Chennai
+181,MATT303DY3Y4AF181,Punch.ev,Standard Range (30 kWh),30.0,LFP,60.0,114,FWD,SUV,Compact SUV,2026,3.3,30.0,375,280,1360,2026-03-11,City Driver,Pune
+182,MATT1NA9T3VMN5182,Tiago.ev,Long Range (XZ+ Tech LR),24.0,NMC,55.0,114,FWD,Hatchback,A-Segment,2022,7.2,25.0,315,250,1255,2026-01-17,Long Distance Traveller,Delhi NCR
+183,MATT4JY7D6ME0L183,Nexon.ev,Medium Range (30 kWh),30.0,NMC,95.0,215,FWD,SUV,Compact SUV,2020,7.2,30.0,275,220,1400,2026-02-27,City Driver,Chennai
+184,MATT16RT23V6AF184,Tiago.ev,Long Range (XZ+ Tech LR),24.0,NMC,55.0,114,FWD,Hatchback,A-Segment,2022,7.2,25.0,315,250,1255,2025-10-28,City Driver,Kolkata
+185,MATT3KLKBULTP9185,Punch.ev,Long Range (40 kWh),40.0,LFP,90.0,190,FWD,SUV,Compact SUV,2026,7.2,50.0,468,345,1360,2026-02-26,Highway Driver,Bengaluru
+186,MATT4A6NGD4C6L186,Nexon.ev,Medium Range (30 kWh),30.0,NMC,95.0,215,FWD,SUV,Compact SUV,2020,7.2,30.0,275,220,1400,2026-04-10,Highway Driver,Chennai
+187,MATT7G4AE1B04T187,Sierra.ev,RWD (75 kWh),75.0,LFP,156.0,315,RWD,SUV,Midsize SUV,2026,7.2,120.0,665,520,1800,2026-07-20,Long Distance Traveller,Pune
+188,MATT1DUG21S99H188,Tiago.ev,Long Range (XZ+ Tech LR),24.0,NMC,55.0,114,FWD,Hatchback,A-Segment,2022,7.2,25.0,315,250,1255,2025-09-04,City Driver,Pune
+189,MATT2J33SUCU1P189,Tigor.ev,XZ+ Lux,26.0,NMC,55.0,170,FWD,Sedan,Compact Sedan,2021,7.2,50.0,315,250,1235,2023-05-14,Conservative Driver,Surat
+190,MATT4R9ZEBTEZS190,Nexon.ev,Long Range (45 kWh),45.0,NMC,106.0,215,FWD,SUV,Compact SUV,2023,7.2,50.0,489,350,1500,2026-02-04,City Driver,Ahmedabad
+191,MATT3PL54661B9191,Punch.ev,Long Range (40 kWh),40.0,LFP,90.0,190,FWD,SUV,Compact SUV,2026,7.2,50.0,468,345,1360,2026-03-21,Conservative Driver,Mumbai
+192,MATT28VZN3YSXZ192,Tigor.ev,XZ+ Lux,26.0,NMC,55.0,170,FWD,Sedan,Compact Sedan,2021,7.2,50.0,315,250,1235,2023-01-10,Aggressive Driver,Bengaluru
+193,MATT5PUSNGK8DE193,Curvv.ev,Accomplished (45 kWh),45.0,LFP,110.0,215,FWD,SUV Coupe,Subcompact Crossover SUV,2024,7.2,60.0,502,340,1480,2025-11-08,Highway Driver,Kolkata
+194,MATT49XCYA0SRR194,Nexon.ev,Long Range (45 kWh),45.0,NMC,106.0,215,FWD,SUV,Compact SUV,2023,7.2,50.0,489,350,1500,2025-11-01,Conservative Driver,Hyderabad
+195,MATT1H7E68UBKJ195,Tiago.ev,Medium Range (XE),19.2,NMC,45.0,110,FWD,Hatchback,A-Segment,2022,3.3,25.0,250,200,1235,2024-10-16,Conservative Driver,Mumbai
+196,MATT33SF4VE0Y6196,Punch.ev,Standard Range (30 kWh),30.0,LFP,60.0,114,FWD,SUV,Compact SUV,2026,3.3,30.0,375,280,1360,2026-06-14,Highway Driver,Bengaluru
+197,MATT3X9M8CW5DA197,Punch.ev,Standard Range (30 kWh),30.0,LFP,60.0,114,FWD,SUV,Compact SUV,2026,3.3,30.0,375,280,1360,2026-07-08,Highway Driver,Delhi NCR
+198,MATT30F47N0NTZ198,Punch.ev,Long Range (40 kWh),40.0,LFP,90.0,190,FWD,SUV,Compact SUV,2026,7.2,50.0,468,345,1360,2026-09-01,Conservative Driver,Bengaluru
+199,MATT4R3AW4SR4Z199,Nexon.ev,Medium Range (30 kWh),30.0,NMC,95.0,215,FWD,SUV,Compact SUV,2020,7.2,30.0,275,220,1400,2022-01-26,City Driver,Pune
+200,MATT4EPL4DNV23200,Nexon.ev,Long Range (45 kWh),45.0,NMC,106.0,215,FWD,SUV,Compact SUV,2023,7.2,50.0,489,350,1500,2024-11-26,Aggressive Driver,Chennai
+201,MATT1A492JKLSN201,Tiago.ev,Long Range (XZ+ Tech LR),24.0,NMC,55.0,114,FWD,Hatchback,A-Segment,2022,7.2,25.0,315,250,1255,2025-10-11,Aggressive Driver,Chennai
+202,MATT1GR91WYG3G202,Tiago.ev,Long Range (XZ+ Tech LR),24.0,NMC,55.0,114,FWD,Hatchback,A-Segment,2022,7.2,25.0,315,250,1255,2024-02-04,Conservative Driver,Pune
+203,MATT7X4VJCNSYS203,Sierra.ev,AWD / QWD (75 kWh),75.0,LFP,259.0,504,AWD,SUV,Midsize SUV,2026,7.2,120.0,624,490,1900,2026-05-06,City Driver,Bengaluru
+204,MATT41TGLGDP2H204,Nexon.ev,Medium Range (30 kWh),30.0,NMC,95.0,215,FWD,SUV,Compact SUV,2020,7.2,30.0,275,220,1400,2025-03-22,Highway Driver,Delhi NCR
+205,MATT16THCLUN2P205,Tiago.ev,Long Range (XZ+ Tech LR),24.0,NMC,55.0,114,FWD,Hatchback,A-Segment,2022,7.2,25.0,315,250,1255,2024-10-25,Highway Driver,Ahmedabad
+206,MATT4EELARR3PP206,Nexon.ev,Medium Range (30 kWh),30.0,NMC,95.0,215,FWD,SUV,Compact SUV,2020,7.2,30.0,275,220,1400,2025-06-26,City Driver,Jaipur
+207,MATT3P54S8WS0T207,Punch.ev,Long Range (40 kWh),40.0,LFP,90.0,190,FWD,SUV,Compact SUV,2026,7.2,50.0,468,345,1360,2026-03-08,City Driver,Bengaluru
+208,MATT22FBGJC83J208,Tigor.ev,XZ+ Lux,26.0,NMC,55.0,170,FWD,Sedan,Compact Sedan,2021,7.2,50.0,315,250,1235,2024-10-20,Highway Driver,Delhi NCR
+209,MATT3V8FC4XVJX209,Punch.ev,Standard Range (30 kWh),30.0,LFP,60.0,114,FWD,SUV,Compact SUV,2026,3.3,30.0,375,280,1360,2026-09-10,Highway Driver,Mumbai
+210,MATT1P82CGW5TZ210,Tiago.ev,Long Range (XZ+ Tech LR),24.0,NMC,55.0,114,FWD,Hatchback,A-Segment,2022,7.2,25.0,315,250,1255,2025-09-21,Long Distance Traveller,Bengaluru
+211,MATT1UAJ06JALF211,Tiago.ev,Medium Range (XE),19.2,NMC,45.0,110,FWD,Hatchback,A-Segment,2022,3.3,25.0,250,200,1235,2025-07-05,Conservative Driver,Pune
+212,MATT2WS80D7BUV212,Tigor.ev,XZ+ Lux,26.0,NMC,55.0,170,FWD,Sedan,Compact Sedan,2021,7.2,50.0,315,250,1235,2024-01-15,Long Distance Traveller,Bengaluru
+213,MATT3P3H7G1ZP3213,Punch.ev,Long Range (40 kWh),40.0,LFP,90.0,190,FWD,SUV,Compact SUV,2026,7.2,50.0,468,345,1360,2026-01-08,Long Distance Traveller,Kolkata
+214,MATT3CZ234U2JE214,Punch.ev,Long Range (40 kWh),40.0,LFP,90.0,190,FWD,SUV,Compact SUV,2026,7.2,50.0,468,345,1360,2026-02-22,Long Distance Traveller,Delhi NCR
+215,MATT4TPRA826SK215,Nexon.ev,Medium Range (30 kWh),30.0,NMC,95.0,215,FWD,SUV,Compact SUV,2020,7.2,30.0,275,220,1400,2026-02-26,City Driver,Delhi NCR
+216,MATT1HY6A835NU216,Tiago.ev,Long Range (XZ+ Tech LR),24.0,NMC,55.0,114,FWD,Hatchback,A-Segment,2022,7.2,25.0,315,250,1255,2024-01-04,Highway Driver,Bengaluru
+217,MATT538BGN8Z1D217,Curvv.ev,Accomplished (45 kWh),45.0,LFP,110.0,215,FWD,SUV Coupe,Subcompact Crossover SUV,2024,7.2,60.0,502,340,1480,2025-11-23,Conservative Driver,Hyderabad
+218,MATT4T40UZ4UCL218,Nexon.ev,Long Range (45 kWh),45.0,NMC,106.0,215,FWD,SUV,Compact SUV,2023,7.2,50.0,489,350,1500,2026-05-31,Highway Driver,Chennai
+219,MATT402WE4WUA1219,Nexon.ev,Long Range (45 kWh),45.0,NMC,106.0,215,FWD,SUV,Compact SUV,2023,7.2,50.0,489,350,1500,2025-10-15,Conservative Driver,Delhi NCR
+220,MATT3D0N5769W1220,Punch.ev,Long Range (40 kWh),40.0,LFP,90.0,190,FWD,SUV,Compact SUV,2026,7.2,50.0,468,345,1360,2026-04-04,Highway Driver,Delhi NCR
+221,MATT4J2946WHLT221,Nexon.ev,Long Range (45 kWh),45.0,NMC,106.0,215,FWD,SUV,Compact SUV,2023,7.2,50.0,489,350,1500,2026-04-19,Aggressive Driver,Surat
+222,MATT2HFXGC5A7W222,Tigor.ev,XZ+ Lux,26.0,NMC,55.0,170,FWD,Sedan,Compact Sedan,2021,7.2,50.0,315,250,1235,2025-05-24,Aggressive Driver,Bengaluru
+223,MATT7SZZ3M8TX1223,Sierra.ev,RWD (75 kWh),75.0,LFP,156.0,315,RWD,SUV,Midsize SUV,2026,7.2,120.0,665,520,1800,2026-04-21,Long Distance Traveller,Delhi NCR
+224,MATT5BUU5KTPX0224,Curvv.ev,Empowered+ A (55 kWh),55.0,LFP,123.0,215,FWD,SUV Coupe,Subcompact Crossover SUV,2024,7.2,70.0,585,410,1530,2026-05-05,Highway Driver,Jaipur
+225,MATT36ZWGAG277225,Punch.ev,Long Range (40 kWh),40.0,LFP,90.0,190,FWD,SUV,Compact SUV,2026,7.2,50.0,468,345,1360,2026-04-19,Conservative Driver,Bengaluru
+226,MATT64PXUA0KXS226,Harrier.ev,RWD (75 kWh),75.0,LFP,175.0,315,RWD,SUV,Midsize SUV,2025,7.2,120.0,627,490,1850,2026-07-03,Aggressive Driver,Kolkata
+227,MATT7YD3945YTY227,Sierra.ev,RWD (75 kWh),75.0,LFP,156.0,315,RWD,SUV,Midsize SUV,2026,7.2,120.0,665,520,1800,2026-07-12,Highway Driver,Delhi NCR
+228,MATT7XS7K5AN4R228,Sierra.ev,RWD (75 kWh),75.0,LFP,156.0,315,RWD,SUV,Midsize SUV,2026,7.2,120.0,665,520,1800,2026-04-23,Long Distance Traveller,Jaipur
+229,MATT1Y1KXY7JX4229,Tiago.ev,Long Range (XZ+ Tech LR),24.0,NMC,55.0,114,FWD,Hatchback,A-Segment,2022,7.2,25.0,315,250,1255,2024-02-24,Highway Driver,Delhi NCR
+230,MATT7W2PMWE882230,Sierra.ev,RWD (63 kWh),63.0,LFP,175.0,315,RWD,SUV,Midsize SUV,2026,7.2,120.0,565,450,1750,2026-05-07,City Driver,Bengaluru
+231,MATT4RYWGCJ3FV231,Nexon.ev,Medium Range (30 kWh),30.0,NMC,95.0,215,FWD,SUV,Compact SUV,2020,7.2,30.0,275,220,1400,2023-11-20,Highway Driver,Hyderabad
+232,MATT4U9AY25CRJ232,Nexon.ev,Medium Range (30 kWh),30.0,NMC,95.0,215,FWD,SUV,Compact SUV,2020,7.2,30.0,275,220,1400,2023-07-30,Aggressive Driver,Bengaluru
+233,MATT3F1Y5W5366233,Punch.ev,Long Range (40 kWh),40.0,LFP,90.0,190,FWD,SUV,Compact SUV,2026,7.2,50.0,468,345,1360,2026-08-21,Highway Driver,Hyderabad
+234,MATT2971JU5BE9234,Tigor.ev,XZ+ Lux,26.0,NMC,55.0,170,FWD,Sedan,Compact Sedan,2021,7.2,50.0,315,250,1235,2023-01-05,Highway Driver,Chennai
+235,MATT4592UADGM3235,Nexon.ev,Medium Range (30 kWh),30.0,NMC,95.0,215,FWD,SUV,Compact SUV,2020,7.2,30.0,275,220,1400,2025-05-07,Conservative Driver,Delhi NCR
+236,MATT5E8F782RN2236,Curvv.ev,Accomplished (45 kWh),45.0,LFP,110.0,215,FWD,SUV Coupe,Subcompact Crossover SUV,2024,7.2,60.0,502,340,1480,2026-06-18,City Driver,Pune
+237,MATT7JUUDHVFWF237,Sierra.ev,RWD (75 kWh),75.0,LFP,156.0,315,RWD,SUV,Midsize SUV,2026,7.2,120.0,665,520,1800,2026-01-22,City Driver,Kolkata
+238,MATT2WTNL3R5ZZ238,Tigor.ev,XZ+ Lux,26.0,NMC,55.0,170,FWD,Sedan,Compact Sedan,2021,7.2,50.0,315,250,1235,2025-10-07,Aggressive Driver,Bengaluru
+239,MATT1EZLU8XX2C239,Tiago.ev,Long Range (XZ+ Tech LR),24.0,NMC,55.0,114,FWD,Hatchback,A-Segment,2022,7.2,25.0,315,250,1255,2025-09-02,City Driver,Mumbai
+240,MATT4VSLHDD4KS240,Nexon.ev,Long Range (45 kWh),45.0,NMC,106.0,215,FWD,SUV,Compact SUV,2023,7.2,50.0,489,350,1500,2025-07-23,Long Distance Traveller,Jaipur
+241,MATT39HBDCGL19241,Punch.ev,Standard Range (30 kWh),30.0,LFP,60.0,114,FWD,SUV,Compact SUV,2026,3.3,30.0,375,280,1360,2026-09-01,City Driver,Chennai
+242,MATT3WA7RXW0TA242,Punch.ev,Standard Range (30 kWh),30.0,LFP,60.0,114,FWD,SUV,Compact SUV,2026,3.3,30.0,375,280,1360,2026-06-27,City Driver,Pune
+243,MATT3V4ZEU8DM6243,Punch.ev,Standard Range (30 kWh),30.0,LFP,60.0,114,FWD,SUV,Compact SUV,2026,3.3,30.0,375,280,1360,2026-06-17,City Driver,Ahmedabad
+244,MATT2VUH5AG4VW244,Tigor.ev,XZ+ Lux,26.0,NMC,55.0,170,FWD,Sedan,Compact Sedan,2021,7.2,50.0,315,250,1235,2026-02-23,City Driver,Delhi NCR
+245,MATT58FXP9UGL4245,Curvv.ev,Empowered+ A (55 kWh),55.0,LFP,123.0,215,FWD,SUV Coupe,Subcompact Crossover SUV,2024,7.2,70.0,585,410,1530,2026-02-06,City Driver,Mumbai
+246,MATT3VKB5WRN9C246,Punch.ev,Standard Range (30 kWh),30.0,LFP,60.0,114,FWD,SUV,Compact SUV,2026,3.3,30.0,375,280,1360,2026-08-22,City Driver,Chennai
+247,MATT7MN8D0SS0X247,Sierra.ev,AWD / QWD (75 kWh),75.0,LFP,259.0,504,AWD,SUV,Midsize SUV,2026,7.2,120.0,624,490,1900,2026-02-24,Highway Driver,Chennai
+248,MATT4TAYMDCB8F248,Nexon.ev,Medium Range (30 kWh),30.0,NMC,95.0,215,FWD,SUV,Compact SUV,2020,7.2,30.0,275,220,1400,2022-11-04,Highway Driver,Ahmedabad
+249,MATT1GMUCML932249,Tiago.ev,Medium Range (XE),19.2,NMC,45.0,110,FWD,Hatchback,A-Segment,2022,3.3,25.0,250,200,1235,2025-03-13,Long Distance Traveller,Chennai
+250,MATT5PW94SWTTK250,Curvv.ev,Accomplished (45 kWh),45.0,LFP,110.0,215,FWD,SUV Coupe,Subcompact Crossover SUV,2024,7.2,60.0,502,340,1480,2026-08-12,Highway Driver,Hyderabad

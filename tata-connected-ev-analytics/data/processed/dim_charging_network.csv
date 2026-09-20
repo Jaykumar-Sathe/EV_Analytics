@@ -1,0 +1,11 @@
+network_id,network_name,network_type,pricing_model
+1,Tata Power EZ Charge,Public,per_kWh
+2,Statiq,Public,per_kWh
+3,ChargeZone,Public,per_kWh
+4,Jio-bp Pulse,Public,per_kWh
+5,Bolt.Earth,Public,per_kWh
+6,Zeon Charging,Public,per_kWh
+7,Kazam,Semi-Public,per_kWh
+8,Shell Recharge,Public,per_kWh
+9,Glida,Public,per_kWh
+10,ElectriVa,Public,per_kWh
